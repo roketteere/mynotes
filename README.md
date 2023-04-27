@@ -7,7 +7,7 @@ the go.
 
 ## Images
 
-![](/mynotes/assets/sample0.png) ![](/mynotes/assets/sample1.png)
+![](assets/sample0.png) ![](assets/sample1.png)
 
 ## Github
 
